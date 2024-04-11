@@ -6,4 +6,4 @@
   module.exports = {
     add: add
   };
-  console.log(add(3,4));
+module.exports = add;
